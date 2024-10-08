@@ -17,12 +17,12 @@ body {
     text-decoration: none;
     position: relative;
     background-color: #4A90E2;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
+    position: fixed; 
+    top: 0; 
     overflow: hidden;
     display: flex;
-    justify-content: center; /* Center the content horizontally */
-    align-items: center; /* Center the content vertically */
+    justify-content: center; 
+    align-items: center;
     z-index: 1000;
 }
 
@@ -192,9 +192,9 @@ footer {
     margin-bottom: 0 auto;
     text-decoration: none;
     position: relative;
-    justify-content: center; /* Centers content horizontally */
-    align-items: center; /* Centers content vertically */
-    flex-direction: column; /* Stacks items vertically */
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column; 
     text-align: center;
     background-color: #4A90E2;
 }
